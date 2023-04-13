@@ -10,7 +10,6 @@ icon_pic = "Poké_Ball_icon.svg.ico"
 
 root.iconbitmap(icon_pic)
 
-
 root.title('Pokemon Stats Viewer')
 root.resizable(False, False)
 
